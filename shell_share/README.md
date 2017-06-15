@@ -1,3 +1,1 @@
-my first share for shell
-
-- in citicbank 
+# 网科银行一部shell分享会
